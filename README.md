@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohantri
+- 👋 Hi, I’m Rohan Tripathi
 - 👀 I’m interested in Data Science and analytics
 - 🌱 I’m currently learning basics of data science and stastics
 - 📫 Reach out to me 
